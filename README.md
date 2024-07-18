@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web development,data science & AI-mL projects
 - 📫 How to reach me: my linkedin, mailbox,or my insta - "anubhab_mowar"
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
 <!---
 anubhabmowar/anubhabmowar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
