@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Anubhab Mowar profile views](https://u8views.com/api/v1/github/profiles/138425843/views/day-week-month-total-count.svg)](https://u8views.com/github/anubhabmowar)
 👋 Hi, I'm Anubhab Mowar!<br><br>👀 Passionate about: Fullstack Development,App Development, AI-ML, Data Science<br><br>🌱 Currently mastering: Data Science and AI<br><br>💞️ Looking to collaborate on: Web Development, Data Science, and AI-ML Projects<br><br>😄 Pronouns: He/Him
 
 
