@@ -1,5 +1,4 @@
 # 💫 About Me:
-[![Anubhab Mowar profile views](https://u8views.com/api/v1/github/profiles/138425843/views/day-week-month-total-count.svg)](https://u8views.com/github/anubhabmowar)
 👋 Hi, I'm Anubhab Mowar!<br><br>👀 Passionate about: Fullstack Development,App Development, AI-ML, Data Science<br><br>🌱 Currently mastering: Data Science and AI<br><br>💞️ Looking to collaborate on: Web Development, Data Science, and AI-ML Projects<br><br>😄 Pronouns: He/Him
 
 
@@ -12,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=anubhabmowar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anubhabmowar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhabmowar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Anubhab Mowar profile views](https://u8views.com/api/v1/github/profiles/138425843/views/day-week-month-total-count.svg)](https://u8views.com/github/anubhabmowar)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anubhabmowar&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
